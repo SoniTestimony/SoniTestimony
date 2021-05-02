@@ -2,7 +2,7 @@
 - 👀 I’m interested in automobiles 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything interesting
-- 📫 HYou can reach me at soni.aneesh@gmail.com
+- 📫 You can reach me at soni.aneesh@gmail.com
 
 <!---
 SoniTestimony/SoniTestimony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
